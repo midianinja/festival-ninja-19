@@ -117,6 +117,17 @@ footer#contact .container.about-us img {border-radius:14px;}
   background-color: #FF00CB;
 }
 
+.relative {
+  position: relative;
+}
+
+.texto {
+  position: absolute;
+  top: 14vw;
+  left: 6vw;
+  font-size: 1.4vw;
+}
+
 @media only screen and (max-width:1100px) {
   .subtitle {
     font-size: 6vw;
@@ -124,6 +135,11 @@ footer#contact .container.about-us img {border-radius:14px;}
   }
   .highlight {
     font-size: 6vw;
+  }
+  .texto {
+    top: 15vw;
+    left: 7vw;
+    font-size: 1.3vw;
   }
 }
 
@@ -135,6 +151,11 @@ footer#contact .container.about-us img {border-radius:14px;}
   .highlight-background {
     margin-top: 10px;
     font-size: 7vw;
+  }
+  .texto {
+    top: 18vw;
+    left: 8vw;
+    font-size: 1.6vw;
   }
 }
 
