@@ -113,6 +113,10 @@ footer#contact .container.about-us img {border-radius:14px;}
   background-color: #fff;
 }
 
+.transparent {
+  background-color: #FF00CB;
+}
+
 @media only screen and (max-width:1100px) {
   .subtitle {
     font-size: 6vw;
