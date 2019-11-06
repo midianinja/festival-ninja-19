@@ -189,6 +189,15 @@ footer#contact .container.about-us img {border-radius:14px;}
 
 /* Retirar o bloco abaixo pra voltar o texto animado que dá pau no iphone */
 
+#logo {
+  width: 60vw;
+  margin-top: 4vw;
+}
+
+.subtitle {
+  display: none;
+}
+
 .centered {
   opacity: 0;
   padding-bottom: 0;
